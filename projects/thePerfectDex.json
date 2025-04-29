@@ -1,0 +1,9 @@
+{
+  "projectName": "The Perfect Dex",
+  "labelPrefix": "Perfect Dex",
+  "website": "https://theperfectdex.com",
+  "twitter": "theperfectdex",
+  "discord": "https://discord.com/theperfectdex",
+  "category": "DEX", // DEX, DEFI, REALFI, MARKETPLACE, NFT, GAMING, TOKEN, ORACLE
+  "description": "Low fees, fully decentralized Cardano dex"
+}
